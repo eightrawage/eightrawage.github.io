@@ -24,7 +24,6 @@
 
 e-mail: eightrawage@gmail.com
 
-Адрес: Украина, г. Харьков Проспект Юбилейный 47/19
 
 ----------------------------------------------------------------------------------------------
 Privacy policy
@@ -52,4 +51,3 @@ Contacts
 
 e-mail: eightrawage@gmail.com
 
-Address: Ukraine, Kharkov Prospekt Yubileyniy 47/19
