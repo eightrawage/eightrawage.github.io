@@ -1,6 +1,6 @@
-Политика конфиденциальности
+<h1>Политика конфиденциальности</h1>
 
-1. Термин “личная информация”, используемый в настоящем документе, определяется как любая информация, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится. Личная информация, которую мы собираем, будет являться предметом настоящей политики конфиденциальности, с вносимыми время от времени поправками.
+1. Термин “личная информация”, используемый в настоящем документе, определяется как любая информация, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится.
 
 2. Мы не запрашиваем Ваш адрес электронной почты, телефон или какую нибудь информацию о Вас.
 
@@ -26,9 +26,10 @@ e-mail: eightrawage@gmail.com
 
 
 ----------------------------------------------------------------------------------------------
-Privacy policy
 
-1. The term "personal information" used herein is defined as any information that identifies or can be used to identify, communicate or search for the person to whom such information relates. The personal information we collect will be the subject of this privacy policy, as amended from time to time.
+<h1>Privacy policy</h1>
+
+1. The term "personal information" used herein is defined as any information that identifies or can be used to identify, communicate or search for the person to whom such information relates.
 
 2. We do not ask for your email address, phone number or any information about you.
 
