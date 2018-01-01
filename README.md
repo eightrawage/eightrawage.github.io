@@ -19,7 +19,7 @@ Required permissions:
 
 2. Access to SMS is used to allow the user to share the information received.
 
-Contacts
+Contacts:
 
 e-mail: eightrawage@gmail.com
 
